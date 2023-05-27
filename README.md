@@ -6,4 +6,4 @@
 
 # additions
 
-- I may or maynot create a app for players to access through phone.
+- I may or maynot create a app for players to access through qb-phone.
